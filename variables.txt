@@ -1,0 +1,7 @@
+(ServiceConnectionName)
+AZURE_RM_SVC_CONNECTION: azure-resource-connection
+VariableGroup: mlops-test1-vg
+BASE_NAME : mlopstest1
+LOCATION : westeurope
+WORKSPACE_NAME : mlops-test1-aml
+WORKSPACE_SVC_CONNECTION : aml-workspace-connection
